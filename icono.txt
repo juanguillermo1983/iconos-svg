@@ -1,0 +1,147 @@
+<!-- ICONOS CORPORATIVOS - CÓDIGO SVG -->
+<!-- Paleta de colores: #2f9d98 (verde azulado), #30446d (azul corporativo), #9b814d (dorado) -->
+
+<!-- 1. ICONO DE CRECIMIENTO -->
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+    <rect x="10" y="70" width="8" height="20" fill="#2f9d98"/>
+    <rect x="25" y="60" width="8" height="30" fill="#30446d"/>
+    <rect x="40" y="50" width="8" height="40" fill="#9b814d"/>
+    <rect x="55" y="35" width="8" height="55" fill="#2f9d98"/>
+    <rect x="70" y="25" width="8" height="65" fill="#30446d"/>
+    <path d="M15 65 L30 55 L45 45 L60 30 L75 20" stroke="#9b814d" stroke-width="3" fill="none"/>
+    <circle cx="75" cy="20" r="3" fill="#9b814d"/>
+</svg>
+
+<!-- 2. ICONO DE OBJETIVOS/TARGET -->
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="50" cy="50" r="40" fill="none" stroke="#30446d" stroke-width="2"/>
+    <circle cx="50" cy="50" r="30" fill="none" stroke="#2f9d98" stroke-width="2"/>
+    <circle cx="50" cy="50" r="20" fill="none" stroke="#9b814d" stroke-width="2"/>
+    <circle cx="50" cy="50" r="8" fill="#9b814d"/>
+    <path d="M20 30 L45 45" stroke="#30446d" stroke-width="3"/>
+    <path d="M15 25 L25 25 L25 35" stroke="#30446d" stroke-width="3" fill="none"/>
+</svg>
+
+<!-- 3. ICONO DE EQUIPO -->
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="35" cy="35" r="12" fill="#2f9d98"/>
+    <circle cx="65" cy="35" r="12" fill="#30446d"/>
+    <circle cx="50" cy="55" r="12" fill="#9b814d"/>
+    <path d="M35 47 Q50 40 65 47 Q80 55 80 70 L70 70 Q65 65 50 65 Q35 65 30 70 L20 70 Q20 55 35 47" fill="#2f9d98" opacity="0.7"/>
+</svg>
+
+<!-- 4. ICONO DE INNOVACIÓN -->
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+    <path d="M50 20 Q35 30 35 45 Q35 60 50 65 Q65 60 65 45 Q65 30 50 20" fill="#9b814d"/>
+    <rect x="45" y="65" width="10" height="5" fill="#30446d"/>
+    <rect x="43" y="70" width="14" height="3" fill="#2f9d98"/>
+    <path d="M25 15 L35 25" stroke="#9b814d" stroke-width="2"/>
+    <path d="M75 15 L65 25" stroke="#9b814d" stroke-width="2"/>
+    <path d="M20 40 L30 40" stroke="#9b814d" stroke-width="2"/>
+    <path d="M80 40 L70 40" stroke="#9b814d" stroke-width="2"/>
+</svg>
+
+<!-- 5. ICONO DE PROCESO/FLUJO -->
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+            <polygon points="0 0, 10 3.5, 0 7" fill="#30446d"/>
+        </marker>
+    </defs>
+    <rect x="10" y="35" width="20" height="15" rx="3" fill="#2f9d98"/>
+    <rect x="40" y="35" width="20" height="15" rx="3" fill="#30446d"/>
+    <rect x="70" y="35" width="20" height="15" rx="3" fill="#9b814d"/>
+    <path d="M30 42.5 L40 42.5" stroke="#30446d" stroke-width="2" marker-end="url(#arrowhead)"/>
+    <path d="M60 42.5 L70 42.5" stroke="#30446d" stroke-width="2" marker-end="url(#arrowhead)"/>
+</svg>
+
+<!-- 6. ICONO DE ESTRATEGIA -->
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+    <path d="M50 15 L65 35 L85 35 L70 50 L75 70 L50 60 L25 70 L30 50 L15 35 L35 35 Z" fill="#9b814d" stroke="#30446d" stroke-width="2"/>
+    <circle cx="50" cy="42" r="8" fill="#2f9d98"/>
+</svg>
+
+<!-- 7. ICONO DE ANÁLISIS/DATA -->
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="30" cy="30" r="15" fill="#2f9d98" opacity="0.7"/>
+    <circle cx="70" cy="40" r="12" fill="#30446d" opacity="0.7"/>
+    <circle cx="50" cy="65" r="18" fill="#9b814d" opacity="0.7"/>
+    <rect x="15" y="80" width="70" height="8" fill="#30446d" opacity="0.3"/>
+    <rect x="20" y="75" width="8" height="13" fill="#2f9d98"/>
+    <rect x="35" y="70" width="8" height="18" fill="#30446d"/>
+    <rect x="50" y="68" width="8" height="20" fill="#9b814d"/>
+    <rect x="65" y="73" width="8" height="15" fill="#2f9d98"/>
+</svg>
+
+<!-- 8. ICONO DE COMUNICACIÓN -->
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+    <path d="M20 25 Q20 15 30 15 L70 15 Q80 15 80 25 L80 55 Q80 65 70 65 L35 65 L20 75 Z" fill="#2f9d98"/>
+    <circle cx="35" cy="35" r="3" fill="white"/>
+    <circle cx="50" cy="35" r="3" fill="white"/>
+    <circle cx="65" cy="35" r="3" fill="white"/>
+    <rect x="30" y="45" width="25" height="2" fill="white"/>
+    <rect x="30" y="50" width="35" height="2" fill="white"/>
+</svg>
+
+<!-- 9. ICONO DE CRONOGRAMA -->
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+    <rect x="20" y="25" width="60" height="55" rx="5" fill="#30446d"/>
+    <rect x="25" y="30" width="50" height="45" fill="white"/>
+    <rect x="15" y="15" width="5" height="20" fill="#9b814d"/>
+    <rect x="80" y="15" width="5" height="20" fill="#9b814d"/>
+    <rect x="30" y="40" width="8" height="6" fill="#2f9d98"/>
+    <rect x="45" y="40" width="8" height="6" fill="#2f9d98"/>
+    <rect x="60" y="40" width="8" height="6" fill="#2f9d98"/>
+    <rect x="30" y="55" width="8" height="6" fill="#9b814d"/>
+    <rect x="45" y="55" width="8" height="6" fill="#9b814d"/>
+</svg>
+
+<!-- 10. ICONO DE PRESENTACIÓN -->
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+    <rect x="25" y="20" width="50" height="35" fill="#30446d" rx="3"/>
+    <rect x="30" y="25" width="40" height="25" fill="white"/>
+    <rect x="35" y="30" width="15" height="2" fill="#2f9d98"/>
+    <rect x="35" y="35" width="20" height="2" fill="#2f9d98"/>
+    <rect x="35" y="40" width="12" height="2" fill="#2f9d98"/>
+    <circle cx="60" cy="38" r="6" fill="#9b814d"/>
+    <line x1="50" y1="55" x2="50" y2="75" stroke="#30446d" stroke-width="3"/>
+    <path d="M35 75 L65 75" stroke="#30446d" stroke-width="3"/>
+</svg>
+
+<!-- 11. ICONO DE FINANZAS -->
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="50" cy="40" r="25" fill="#9b814d" opacity="0.8"/>
+    <text x="50" y="48" text-anchor="middle" fill="white" font-size="20" font-weight="bold">$</text>
+    <rect x="40" y="65" width="20" height="8" fill="#2f9d98"/>
+    <rect x="35" y="73" width="30" height="8" fill="#30446d"/>
+    <path d="M25 25 Q30 20 35 25" stroke="#9b814d" stroke-width="2" fill="none"/>
+    <path d="M75 25 Q70 20 65 25" stroke="#9b814d" stroke-width="2" fill="none"/>
+</svg>
+
+<!-- 12. ICONO DE ÉXITO -->
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+    <path d="M50 15 L55 35 L75 35 L60 48 L65 68 L50 58 L35 68 L40 48 L25 35 L45 35 Z" fill="#9b814d"/>
+    <circle cx="50" cy="42" r="8" fill="#2f9d98"/>
+    <rect x="47" y="70" width="6" height="15" fill="#30446d"/>
+    <ellipse cx="50" cy="85" rx="12" ry="4" fill="#30446d"/>
+</svg>
+
+<!-- EJEMPLO DE USO EN HTML -->
+<!--
+Para usar estos iconos en tu HTML, simplemente copia el código SVG y ajusta:
+1. width y height para el tamaño deseado
+2. Los colores si necesitas variantes
+3. Agregar clases CSS para estilos adicionales
+
+Ejemplo:
+<svg width="50" height="50" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" class="mi-icono">
+    [código del icono aquí]
+</svg>
+-->
+
+<!-- COLORES DE LA PALETA -->
+<!--
+Verde Azulado: #2f9d98 - Para elementos dinámicos y de crecimiento
+Azul Corporativo: #30446d - Para textos, marcos y elementos base  
+Dorado: #9b814d - Para acentos, elementos premium y highlights
+-->

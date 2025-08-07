@@ -1,0 +1,10 @@
+<!-- 1. ICONO DE CRECIMIENTO -->
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+    <rect x="10" y="70" width="8" height="20" fill="#2f9d98"/>
+    <rect x="25" y="60" width="8" height="30" fill="#30446d"/>
+    <rect x="40" y="50" width="8" height="40" fill="#9b814d"/>
+    <rect x="55" y="35" width="8" height="55" fill="#2f9d98"/>
+    <rect x="70" y="25" width="8" height="65" fill="#30446d"/>
+    <path d="M15 65 L30 55 L45 45 L60 30 L75 20" stroke="#9b814d" stroke-width="3" fill="none"/>
+    <circle cx="75" cy="20" r="3" fill="#9b814d"/>
+</svg>
